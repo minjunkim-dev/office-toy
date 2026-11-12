@@ -1,2 +1,2 @@
 def mean(xs):
-    return sum(xs) // len(xs)
+    return sum(xs) / len(xs)
